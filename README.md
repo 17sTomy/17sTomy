@@ -5,6 +5,7 @@
 - I am also working at PwC as a Software Developer, where I get to tackle exciting and challenging projects.
 
 ## 💻 Technologies
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 
 
