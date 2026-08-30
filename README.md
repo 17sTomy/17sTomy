@@ -16,6 +16,10 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=17sTomy&show_icons=true&theme=transparent&locale=es&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+
 ## 📫 Contact me 
 [![Gmail Badge](https://img.shields.io/badge/-tomasignacioalv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomasignacioalv@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Tomas%20Alvarez-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-alvarez-40b045217/ "Connect on LinkedIn")
