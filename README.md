@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=17sTomy&show_icons=true&theme=transparent&locale=es&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=17sTomy&show_icons=true&theme=transparent&locale=es&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)
 
 ## 📫 Contact me 
 [![Gmail Badge](https://img.shields.io/badge/-tomasignacioalv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomasignacioalv@gmail.com "Connect via Email")
